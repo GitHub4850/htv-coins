@@ -5,8 +5,8 @@ on:
     workflow_dispatch:
 
 env:
-  HTV_EMAIL: "${{ secrets.HTV_EMAIL }}"
-  HTV_PASSWORD: "${{ secrets.HTV_PASSWORD }}"
+  HTV_EMAIL: "${{ noihgor@gmail.com }}"
+  HTV_PASSWORD: "${{ OmegaHanime4850 }}"
 
 jobs:
   build:
